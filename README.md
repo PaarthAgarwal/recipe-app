@@ -20,7 +20,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Screenshots from the Project
+## Screenshots from the Project (Desktop View)
 Home Page
 
 ![alt text](public/image3.png)
@@ -40,4 +40,15 @@ Voice Search
 Voice Search Result
 
 ![image](https://github.com/user-attachments/assets/92d1d10b-ea13-4f22-8d69-fd957e0cbb9a)
+
+## Screenshots from the Project (Mobile view)
+
+Home Page
+![image](https://github.com/user-attachments/assets/2b690bee-2a4e-4cb8-b15f-78fd26246f7d)
+
+Search Results Page
+
+![image](https://github.com/user-attachments/assets/8fb737d4-eb58-40d6-9fed-838e24db2740)
+
+
 
