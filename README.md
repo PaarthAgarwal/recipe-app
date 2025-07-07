@@ -26,8 +26,18 @@ Home Page
 ![alt text](public/image3.png)
 
 Filters
+
 ![alt text](public/image1.png)
 
 Filter result page
+
 ![alt text](public/image2.png)
-s
+
+Voice Search
+
+![image](https://github.com/user-attachments/assets/aff7716b-acc1-43b0-8f38-9efeac5df039)
+
+Voice Search Result
+
+![image](https://github.com/user-attachments/assets/92d1d10b-ea13-4f22-8d69-fd957e0cbb9a)
+
