@@ -44,6 +44,7 @@ Voice Search Result
 ## Screenshots from the Project (Mobile view)
 
 Home Page
+
 ![image](https://github.com/user-attachments/assets/2b690bee-2a4e-4cb8-b15f-78fd26246f7d)
 
 Search Results Page
